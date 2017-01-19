@@ -1,0 +1,241 @@
+<resources>
+    <string name="app_name">IPU Syllabus</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="instructionssem1.1">1. Question No. 1 should be compulsory and cover the entire syllabus. This question should have objective
+        or short answer type questions. It should be of 25 marks.</string>
+    <string name="instructionssem1.2">2. Apart from Question No. 1, rest of the paper shall consist of four units as per the syllabus. Every unit
+        should have two questions. However, student may be asked to attempt only 1 question from each unit.
+        Each question should be of 12.5 marks.</string>
+    <string name="content1.1">UNIT- I\n
+        Successive differentiation: Leibnitz theorem for nth derivative (without proof). Infinite series: Convergence and
+divergence of infinite series, positive terms infinite series, necessary condition, comparison test (Limit test),
+D’Alembert ratio test, Integral Test, Cauchy’s root test, Raabe’s test and Logarithmic test(without proof).
+Alternating series, Leibnitz test, conditional and absolutely convergence. Taylor’s and Maclaurin’s
+expansion(without proof) of function ( ex, log(1+x), cos x , sin x) with remainder terms ,Taylor’s and
+Maclaurin’s series, Error and approximation.</string>
+    <string name="content1.2">UNIT- II\n
+        Asymptotes to Cartesian curves. Radius of curvature and curve tracing for Cartesian, parametric and polar
+curves. Integration: integration using reduction formula for sin, cos and combination of sin and cos. Application of integration : Area under the curve, length
+of the curve, volumes and surface area of solids of revolution about axis only .Gamma and Beta functions.</string>
+    <string name="content1.3">UNIT- III\n
+Matrices: Orthogonal matrix, Hermitian matrix, Skew-Hermitian matrix and Unitary matrix. Inverse of matrix
+by Gauss-Jordan Method (without proof). Rank of matrix by echelon and Normal (canonical) form. Linear
+dependence and linear independence of vectors. Consistency and inconsistency of linear system of
+homogeneous and non homogeneous equations . Eigen values and Eigen vectors. Properties of Eigen values
+(without proof). Cayley-Hamilton theorem (without proof). Diagonlization of matrix. Quadratic form, reduction
+of quadratic form to canonical form.</string>
+    <string name="content1.4">UNIT-IV\n
+        Ordinary differential equations: First order linear differential equations, Leibnitz and Bernaulli’s equation. Exact
+differential equations , Equations reducible to exact differential equations. Linear differential equation of higher
+order with constant coefficients, Homogeneous and non homogeneous differential equations reducible to linear
+differential equations with constant coefficients. Method of variation of parameters. Bessel’s and Legendre’s
+equations (without series solutions), Bessel’s and Legendre’s functions and their properties.</string>
+    <string name="content2.1">UNIT I\n
+        Interference: Introduction, Interference due to division of wave front: Fresnel’s Biprism, Interference due to
+division of amplitude: wedge shaped film, Newton’s rings.\n
+        Diffraction: Introduction, Difference between Fresnel and Fraunhofer diffraction, Single slit diffraction,
+Transmission diffraction grating, Absent spectra.</string>
+    <string name="content2.2">UNIT II\n
+        Polarization: Introduction, Uniaxial crystals, Double refraction, Nicol prism, Quarter and half wave plates,
+Theory of production of plane, circularly and elliptically polarized lights, Specific rotation, Laurents half shade
+polarimeter.\n
+        Laser: Spontaneous and stimulated emissions, Einstein’s coefficients, Laser and its principle, He-Ne laser.\n
+Fibre optics: Introduction, Single mode fibre, Step index and graded index multimode fibres,
+Acceptance angle and numerical aperture.</string>
+    <string name="content2.3">UNIT III\n
+        Theory of Relativity: Introduction, Frame of reference, Galilean transformation, Michelson-Morley
+experiment, Postulates of special theory of relativity, Lorentz transformations, Length contraction, Time
+dilation, Mass energy relation.\n
+        Ultrasonics: Introduction, Production of ultrasonics by magnetostriction and Piezoelectric methods,
+Applications.</string>
+    <string name="content2.4">UNIT IV\n
+        Nuclear Physics: Introduction, Radioactivity, Alpha decay, Beta decay, Gamma decay, Q value, Threshold
+energy, Nuclear reactions, Nuclear fission: Liquid drop model, Nuclear fusion, Particle accelerators: Linear
+accelerator, Cyclotron, Radiation detectors: Ionization chamber, Geiger Mueller Counter.</string>
+    <string name="content3.1">UNIT-I\n
+        Introduction:\n
+        Introduction of Manufacturing processes and their classification, Basic Metals and Alloys :
+Properties and Applications. Properties of Materials: Strength, elasticity, stiffness, malleability, ductility,
+brittleness, toughness and hardness. Ferrous Materials: Carbon steels, its classification based on % carbon as
+low, mild, medium and high carbon steel, its properties and applications. Wrought iron. Cast iron. Alloy steels:
+stainless steel, tool steel. Elementary introduction to Heat- treatment of carbon steels: annealing, normalizing,
+quenching and tempering and case- hardening.\n
+        Non-Ferrous metals and alloys: Properties and uses of various non-ferrous metals and alloys and its composition
+such as Cu-alloys: Brass, Bronze, Al-alloys such as Duralumin.\n
+        Casting Processes:\n
+        Principles of metal casting, Pattern materials, types and allowance, composition and properties of moulding
+sand, foundry tools, concept of cores and core print, elements of gating system, description and operation of
+cupola, special casting processes e.g. die-casting; permanent mould casting; centrifugal casting; investment
+casting; casting defects.</string>
+    <string name="content3.2">UNIT-II\n
+Smithy and Forging:\n
+        Hot working and cold working, Forging tools and equipments, Forging operations, Forging types: Smith
+forging, Drop forging, Press forging, Machine forging; Forging defects; Extrusion, wire drawing, swaging.\n
+Bench Work and Fitting:\n
+        Fitting shop tools, operation: Fitting; sawing; chipping; thread cutting (with taps and dies);
+Marking and marking tools.</string>
+    <string name="content3.3">UNIT-III\n
+        Metal joining: Welding principles, classification of welding techniques, Oxyacetylene Gas welding, equipment
+and field of application, Arc-welding, metal arc, Carbon arc welding, submerged arc welding and atomic
+hydrogen welding, TIG and MIG welding, Electric resistance welding: spot; seam; flash; butt and percussion
+welding, Flux: composition; properties and function, Electrodes, Types of joints and edge preparation, Brazing
+and soldering, welding defects.
+</string>
+    <string name="content3.4">UNIT-IV\n
+        Sheet Metal Work:\n
+        Tools and equipments used in sheet metal work, metals used for sheets, standard specification for sheets, Types
+of sheet metal operations: shearing, drawing, bending. Other operations like spinning, stretch forming,
+embossing and coining.\n
+        Powder Metallurgy: Introduction of powder metallurgy process: powder production, blending, compaction,
+sintering.</string>
+    <string name="content4.1">UNIT – I: DC Circuits\n
+        Introduction of Circuit parameters and energy sources (Dependent and Independent), Mesh and Nodal Analysis,
+Superposition, Thevenin’s, Norton’s, Reciprocity, Maximum Power Transfer and Millman’s Theorems, Star-
+Delta Transformation and their Applications to the Analysis of DC circuits.</string>
+    <string name="content4.2">UNIT – II: A.C.Circuits\n
+        A.C. Fundamentals, Phasor representation, Steady State Response of Series and Parallel R-L, R-C and R-L-C
+circuits using j-notation, Series and Parallel resonance of RLC Circuits, Quality factor, Bandwidth, Complex
+Power, Introduction to balanced 3-phase circuits with Star- Delta Connections.</string>
+    <string name="content4.3">UNIT – III: Measuring Instruments\n
+        Basics of measuring instruments and their types ,Working principles and applications of moving coil, moving
+iron (ammeter and voltmeter) and Extension of their ranges, dynamometer- type Wattmeter , induction-type
+Energy Meter , Two-wattmeter method for the measurement of power in three phase circuits, Introduction to
+digital voltmeter, digital Multimeter and Electronic Energy Meter.</string>
+    <string name="content4.4">UNIT – IV: Transformer and Rotating Machines\n
+        Fundamentals of Magnetic Circuits, Hysteresis and Eddy current losses, working principle, equivalent circuit,
+efficiency and voltage regulation of single phase transformer and its applications. Introduction to DC and
+Induction motors (both three phase and single phase), Stepper Motor and Permanent Magnet Brushless DC
+Motor.</string>
+    <string name="content5.1">UNIT-I\n
+        Five Component Model of a Computer, System and Application software ( introduction ) storage devices ,
+primary (RAM, ROM, PROM, EPROM, cache ) Memory and secondary (magnetic tape, hard disk, Compact
+disks) memory , peripheral devices , printers.</string>
+    <string name="content5.2">UNIT-II\n
+        Operating Systems: DOS Internal, External commands, Windows ( 2000 and NT) , Overview of architecture of
+Windows, tools and system utilities including registry , partitioning of hard disk , Overview of Linux
+architecture , File system , file and permissions , concept of user and group , installation of rpm and deb based
+packages.</string>
+    <string name="content5.3">UNIT-III\n
+        Basics of programming through flow chart , Networking Basics - Uses of a network and Common types of
+networks , Network topologies and protocols , Network media and hardware , Overview of Database
+Management System.</string>
+    <string name="content5.4">UNIT-IV\n
+        Libre / Open Office Writer : Editing and Reviewing, Drawing, Tables, Graphs, Templates\n
+        Libre / Open Office Calc : Worksheet Management , Formulas, Functions, Charts\n
+        Libre / Open Office Impress: designing powerful power-point presentation</string>
+   <string name="content6">Non-University Examination Scheme (NUES)\n
+       Note: There will be no End-Term External University Examination. Marks are to be given on the basis of two
+internal sessional test of 30 marks each and one final Viva-voce project report Examination of 40 marks.</string>
+    <string name="content6.1">UNIT-1: Introduction to Value Education\n
+        1. Understanding the need, basic guidelines, content and process for value education.\n
+        2. Basic Human Aspirations: Prosperity and happiness\n
+        3. Methods to fulfil the human aspirations – understanding and living in harmony at various levels.\n
+        4. Practice Session – 1.</string>
+    <string name="content6.2">UNIT-2: Harmony in the Human Being\n
+        1. Co-existence of the sentient “I” and the material body – understanding their needs – Happiness and
+Conveniences.\n
+        2. Understanding the Harmony of “I” with the body – Correct appraisal of physical needs and the meaning of
+prosperity.\n
+        3. Programme to ensure harmony of “I” and Body-Mental and Physical health and happiness.\n
+        4. Harmony in family and society: Understanding Human-human relationship in terms of mutual trust and
+respect.\n
+        5. Understanding society and nation as extensions of family and society respectively.\n
+        6. Practice Session – 02</string>
+    <string name="content6.3">UNIT-3: Basics of Professional Ethics\n
+        1. Ethical Human Conduct – based on acceptance of basic human values.\n
+        2. Humanistic Constitution and universal human order – skills, sincerity and fidelity.\n
+        3. To identify the scope and characteristics of people – friendly and eco-friendly production system,
+Technologies and management systems.\n
+        4. Practice Session – 03.</string>
+    <string name="content6.4">UNIT-4: Professional Ethics in practice\n
+        1. Profession and Professionalism – Professional Accountability, Roles of a professional, Ethics and image
+of profession.\n
+        2. Engineering Profession and Ethics - Technology and society, Ethical obligations of Engineering
+professionals, Roles of Engineers in industry, society, nation and the world.\n
+        3. Professional Responsibilities – Collegiality, Loyalty, Confidentiality, Conflict of Interest, Whistle
+Blowing.\n
+        4. Practice Session – 04</string>
+    <string name="content7.1">Unit –I\n
+        Partial differentiation and its Applications: Partial derivatives of first and second order. Euler’s theorem for
+homogeneous functions (without proof). Derivatives of Implicit Functions, total derivatives. Change of
+variables. Jacobian. Taylor’s theorem for function of two variables(without proof). Error and approximation.
+Extreme values of function of several variables(maxima ,minima, saddle points). Lagrange method of
+undetermined multipliers. Partial differential equations: Formulation, solution of first order equations,
+Lagranges equations, Charpit’s method.</string>
+    <string name="content7.2">Unit-II\n
+Laplace Transformation: Definition, Laplace transformation of basic functions , existence condition for Laplace
+transformation, Properties of Laplace transformation(Linearity, scaling and shifting). Unit step function,
+Impulse Function, Periodic Functions. Laplace transformation of derivatives, Laplace transformation of
+integrals, differentiation of transforms, Integration of transforms, Convolution theorem ,inverse Laplace
+transformation. Solution of ordinary Differential equations.</string>
+    <string name="content7.3">Unit-III\n
+        Complex Function: Definition, Derivatives, Analytic function, Cauchy’s Riemann equation (without proof).
+Conformal and bilinear mappings, Complex Integration: Complex Line integration, Cauchy’s integral theorem
+and integral formula(without proof). Zeros and Singularities, Taylor’s and Laurent’s series (without proof).
+Residues, Residue theorem (without proof). Evaluation of real definite integrals: Integration around the unit
+circle, Integration around a small semi circle and integration around rectangular contours.</string>
+    <string name="content7.4">Unit-IV\n
+        Multiple integrals: Double integrals, Change of order of integration, Triple integrals. Vector Calculus: Scalar
+and vector functions, Gradient, Divergence and curl. Directional derivatives, Line Integrals. Surface integrals,
+volume integrals. Green’s theorem, Stoke’s theorem and Gauss divergence theorem (without proof).</string>
+    <string name="content8.1">UNIT I\n
+Electromagnetic Theory : Gradient, Divergence, Curl, Gauss’ law, Ampere’s Law, Continuity equation,
+Maxwell’s equations (differential and integral forms), Significance of Maxwell’s equations, Poynting Theorem,
+Electromagnetic wave propagation in dielectrics and conductors.</string>
+    <string name="content8.2">UNIT II\n
+        Statistical Physics: Black body radiation, Planck\'s radiation formula, Wien\'s and Rayleigh-Jeans Laws,
+Distribution laws: Qualitative features of Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac statistics and their
+comparison (without derivation).\n
+        Quantum Mechanics: Postulates of Quantum mechanics, de-Broglie hypothesis, Davisson Germer experiment,
+Wave function and its physical significance, Wave Packet, Phase and group velocities, Uncertainty principle,
+Schrodinger equation for free particle, Time dependent Schrodinger equation, Particle in a box (1-D).</string>
+    <string name="content8.3">UNIT III\n
+        Crystal Structure: Types of solids, Unit cell, Types of crystals, Translation vectors, Lattice planes, Miller
+indices, Simple crystal structures, Interplaner spacing, Crystal structure analysis: Bragg’s law, Laue method,
+Point defects: Schottcky and Frankel defects.</string>
+    <string name="content8.4">UNIT IV\n
+        Band Theory of Solids: Introduction, Kronig-Penney model: E-k diagram, Effective mass of an electron,
+Intrinsic semiconductors: Electron concentration in conduction band, Hole concentration in valence band,
+Extrinsic semiconductor: p-type and n-type semiconductors, Fermi level, Hall Effect: Hall voltage and Hall
+coefficient.</string>
+    <string name="content9.1">UNIT-I\n
+        Evaluation Of Electronics: Introduction and Application Of Electronics, Energy Band Theory Of Crystals,
+Energy Band Structures In Metals, Semiconductors And Insulators, Theory Of Semiconductors: Classification
+Of Semiconductors, Conductivity Of Semiconductors, Carrier Concentration In Intrinsic and Extrinsic
+Semiconductors, Properties Of Intrinsic And Extrinsic Semiconductors, Variation In Semiconductors
+Parameters With Temperature, Fermi-Dirac Function, Fermi Level In A Semiconductor Having Impurities,
+Band Structure Of Open-Circuited P-N Junction, Drift And Diffusion Currents, Carrier Life Time, Continuity
+Equation (Elementary Treatment Only).</string>
+    <string name="content9.2">UNIT – II\n
+Theory of p-n junction Diode: Diode Current Equation, Diode Resistance, Transition Capacitance, Diffusion
+Capacitance, (Elementary treatment only), Effect of Temperature on p-n Junction Diode, Switching
+Characteristics, Piecewise Linear Model, Special Diodes: Zener Diode, Varactor Diode, Tunnel Diode,
+Photodiode, Light Emitting Diodes, Schottky Barrier Diode, Applications of Diodes: Half-Wave Diode
+Rectifier, Full-Wave Rectifier, Clippers and Clampers (Elementary treatment only).</string>
+    <string name="content9.3">Unit – III\n
+        Bipolar junction transistor: Introduction of transistor, construction, transistor operations, BJT characteristics,
+load line, operating point, leakage currents, saturation and cut off mode of operations, Eber-moll’s model.</string>
+    <string name="content9.4">Unit – IV\n
+        Application of BJT: CB, CE, CC configurations, hybrid model for transistor at low frequencies, Introduction to
+FETs and MOSFETs.\n
+        Fundamentals of digital electronics: Digital and analog signals, number systems, Boolean algebra, logic gates
+with simple applications, logic gates, karnaugh maps.</string>
+    <string name="content10.1">UNIT I\n
+        Concept of algorithms, Flow Charts, Overview of the compiler ( preferably GCC) , Assembler, linker and
+loader , Structure of a simple Hello World Program in C ,Overview of compilation and execution process in an
+IDE ( preferably Code Block).</string>
+    <string name="content10.2">UNIT II\n
+        Programming using C: Preprocessor Directive, C primitive input output using get char and put char , simple I/O
+Function calls from library , data type in C including enumeration , arithmetic, relational and logical operations,
+conditional executing using if, else, switch and break .Concept of loops , for, while and do-while , Storage
+Classes: Auto, Register, Static and Extern.</string>
+    <string name="content10.3">UNIT III\n
+        Arrays (one and two dimensional), 2-d arrays used in matrix computation. Concept of Sub-programming,
+functions. Parameter transmission schemes i.e. call by value and call by reference, Pointers, relationship
+between array and pointer, Argument passing using pointers, Array of pointer, passing arrays as arguments</string>
+    <string name="content10.4">UNIT IV\n
+        Structure and unions , Strings and C string library, File Handling in C Using File Pointers,fopen( ), fclose(),Input and Output using file pointers, Character Input and Output with Files , String Input / Output Functions ,
+Formatted Input / Output Functions,Block Input / Output Functions, Sequential Vs Random Access Files ,
+Positioning the File Pointer</string>
+</resources>

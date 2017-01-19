@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DCEDC8"
+    android:orientation="vertical"
+    tools:context="com.example.ramit.ipusyllabus.ContentSem1Activity">
+
+    <RelativeLayout
+        android:id="@+id/activity_content_math"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <TextView
+            android:id="@+id/instructionssem1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginTop="16dp"
+            android:text="INSTRUCTIONS:"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/instructionssem1.1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/instructionssem1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:text="@string/instructionssem1.1" />
+
+        <TextView
+            android:id="@+id/instructionssem1.2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/instructionssem1.1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="8dp"
+            android:text="@string/instructionssem1.2" />
+
+        <TextView
+            android:id="@+id/am1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/instructionssem1.2"
+            android:gravity="center_horizontal"
+            android:text="APPLIED MATHEMATICS - I" />
+
+        <TextView
+            android:id="@+id/papercdmath"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/am1"
+            android:layout_marginTop="16dp"
+            android:text="Paper Code : ETMA-101" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/am1"
+            android:layout_marginTop="16dp"
+            android:text="credits : 4"
+            android:textAllCaps="true" />
+
+
+        <LinearLayout
+            android:id="@+id/contentmathsem1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/papercdmath"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/contentmathsem1.1"
+                style="@style/contentStyle"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="24dp"
+                android:text="@string/content1.1" />
+
+            <TextView
+                android:id="@+id/contentmathsem1.2"
+                style="@style/contentStyle"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="24dp"
+                android:text="@string/content1.2" />
+
+            <TextView
+                android:id="@+id/contentmathsem1.3"
+                style="@style/contentStyle"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="24dp"
+                android:text="@string/content1.3" />
+
+            <TextView
+                android:id="@+id/contentmathsem1.4"
+                style="@style/contentStyle"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="24dp"
+                android:text="@string/content1.4" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/activity_content_physics"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/contentmathsem1">
+
+            <TextView
+                android:id="@+id/ap1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center_horizontal"
+                android:text="APPLIED PHYSICS - I" />
+
+            <TextView
+                android:id="@+id/papercdap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/ap1"
+                android:layout_marginTop="16dp"
+                android:text="Paper Code : ETPH-103" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/ap1"
+                android:layout_marginTop="16dp"
+                android:text="credits : 3"
+                android:textAllCaps="true" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/papercdap"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/contentphysem2.1"
+                    style="@style/contentStyle"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="24dp"
+                    android:text="@string/content2.1" />
+
+                <TextView
+                    android:id="@+id/contentphysem2.2"
+                    style="@style/contentStyle"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="24dp"
+                    android:text="@string/content2.2" />
+
+                <TextView
+                    android:id="@+id/contentphysem2.3"
+                    style="@style/contentStyle"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="24dp"
+                    android:text="@string/content2.3" />
+
+                <TextView
+                    android:id="@+id/contentphysem2.4"
+                    style="@style/contentStyle"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="24dp"
+                    android:text="@string/content2.4" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/activity_content_manufacprocess"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/activity_content_physics">
+
+            <TextView
+                android:id="@+id/mp1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center_horizontal"
+                android:text="MANUFACTURING PROCESS" />
+
+            <TextView
+                android:id="@+id/papercdmp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/mp1"
+                android:layout_marginTop="16dp"
+                android:text="Paper Code : ETME-105" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/mp1"
+                android:layout_marginTop="16dp"
+                android:text="credits : 3"
+                android:textAllCaps="true" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/papercdmp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/contentmanusem3.1"
+                    style="@style/contentStyle"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="24dp"
+                    android:text="@string/content3.1" />
+
+                <TextView
+                    android:id="@+id/contentmanusem3.2"
+                    style="@style/contentStyle"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="24dp"
+                    android:text="@string/content2.2" />
+
+                <TextView
+                    android:id="@+id/contentmanusem3.3"
+                    style="@style/contentStyle"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="24dp"
+                    android:text="@string/content3.3" />
+
+                <TextView
+                    android:id="@+id/contentmanusem3.4"
+                    style="@style/contentStyle"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="24dp"
+                    android:text="@string/content3.4" />
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+</ScrollView>
